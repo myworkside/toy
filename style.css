@@ -96,8 +96,9 @@ button:hover{
 }
 }
 .icon{
+    margin-top: 500px;
     
-    font-size: 50px;
+    font-size: 100px;
     margin: 50px;
     color: blue;
     /* padding: 50px; */
